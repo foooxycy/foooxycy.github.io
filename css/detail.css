@@ -1,0 +1,31 @@
+/* 详情页 */
+.details .media-box {
+	margin: 40px auto;
+	box-shadow: 0px 0px 40px rgba(255, 131, 69, 0.1);
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 40px;
+}
+
+.media-box .media-body {
+	background-color: #fff;
+	padding-top: 15px;
+}
+
+.media-box .media-body .main {
+	padding: 10px 60px 10px 10px;
+}
+
+.glyphicon-shopping-cart{
+	font-size: 24px;
+	cursor: pointer;
+}
+
+.details h4 {
+	color: #838383;
+}
+
+.details .price {
+	font-size: 30px;
+	margin-right: 20px;
+}
